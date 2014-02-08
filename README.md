@@ -1,4 +1,4 @@
-## oapipress
+## OAPIPress
 
 
 ## LICENSE
